@@ -1,1 +1,1 @@
-Git tutorial
+Zeus Learning training
